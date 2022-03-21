@@ -1,0 +1,20 @@
+C:\Users\lucaz.lindgren\source\repos\Mediaregister\Mediaregister\bin\Debug\Mediaregister.exe.config
+C:\Users\lucaz.lindgren\source\repos\Mediaregister\Mediaregister\bin\Debug\Mediaregister.exe
+C:\Users\lucaz.lindgren\source\repos\Mediaregister\Mediaregister\bin\Debug\Mediaregister.pdb
+C:\Users\lucaz.lindgren\source\repos\Mediaregister\Mediaregister\obj\Debug\Mediaregister.csprojAssemblyReference.cache
+C:\Users\lucaz.lindgren\source\repos\Mediaregister\Mediaregister\obj\Debug\Mediaregister.Form1.resources
+C:\Users\lucaz.lindgren\source\repos\Mediaregister\Mediaregister\obj\Debug\Mediaregister.Properties.Resources.resources
+C:\Users\lucaz.lindgren\source\repos\Mediaregister\Mediaregister\obj\Debug\Mediaregister.csproj.GenerateResource.cache
+C:\Users\lucaz.lindgren\source\repos\Mediaregister\Mediaregister\obj\Debug\Mediaregister.csproj.CoreCompileInputs.cache
+C:\Users\lucaz.lindgren\source\repos\Mediaregister\Mediaregister\obj\Debug\Mediaregister.exe
+C:\Users\lucaz.lindgren\source\repos\Mediaregister\Mediaregister\obj\Debug\Mediaregister.pdb
+S:\GitHub\Visual Studio\Media-Register\Mediaregister\Mediaregister\bin\Debug\Mediaregister.exe.config
+S:\GitHub\Visual Studio\Media-Register\Mediaregister\Mediaregister\bin\Debug\Mediaregister.exe
+S:\GitHub\Visual Studio\Media-Register\Mediaregister\Mediaregister\bin\Debug\Mediaregister.pdb
+S:\GitHub\Visual Studio\Media-Register\Mediaregister\Mediaregister\obj\Debug\Mediaregister.csprojAssemblyReference.cache
+S:\GitHub\Visual Studio\Media-Register\Mediaregister\Mediaregister\obj\Debug\Mediaregister.Form1.resources
+S:\GitHub\Visual Studio\Media-Register\Mediaregister\Mediaregister\obj\Debug\Mediaregister.Properties.Resources.resources
+S:\GitHub\Visual Studio\Media-Register\Mediaregister\Mediaregister\obj\Debug\Mediaregister.csproj.GenerateResource.cache
+S:\GitHub\Visual Studio\Media-Register\Mediaregister\Mediaregister\obj\Debug\Mediaregister.csproj.CoreCompileInputs.cache
+S:\GitHub\Visual Studio\Media-Register\Mediaregister\Mediaregister\obj\Debug\Mediaregister.exe
+S:\GitHub\Visual Studio\Media-Register\Mediaregister\Mediaregister\obj\Debug\Mediaregister.pdb
